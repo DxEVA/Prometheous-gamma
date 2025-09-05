@@ -2,3 +2,4 @@ python-telegram-bot
 pycoingecko
 requests
 schedule
+flask
